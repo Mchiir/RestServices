@@ -9,3 +9,7 @@ public class StudentsApplication {
         SpringApplication.run(StudentsApplication.class, args);
     }
 }
+//http://localhost:8080/v3/api-docs
+//localhost:8080/swagger-ui/
+//http://localhost:8080/api/students // GET ALL
+// To run from terminal: 'mvn spring-boot:run' (main class is identified by springboot)
